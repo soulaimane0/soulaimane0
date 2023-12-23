@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently building an E-commerce website with **MERN STACK + Typescript and Shadcn** 
 
-- 👨‍💻 All of my projects are available at [https://soulaimane0.github.io/](https://soulaimane0.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-pi-eosin.vercel.app/)
 
 - 📫 How to reach me **boukrabsolayman402@gmail.com**
 </p>
