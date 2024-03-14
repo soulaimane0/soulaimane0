@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="left" src="https://camo.githubusercontent.com/795f5ea695429b53cbc0bd1e5eb2ecef56e50651ead2055a96044e358738a28f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76547857746d583262306f48362f67697068792e676966" alt="Your GIF image" width="200" height="200">
+  <img align="left" src="/assets/github-profile-gif.gif" alt="GIF image" width="200" height="200">
   <h1 align="center">Hi 👋, I'm Soulaimane</h1>
   <h3 align="center">A passionate fullstack developer from Morocco</h3>
 </p>
@@ -8,9 +8,9 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulaimane0&label=Profile%20views&color=0e75b6&style=flat" alt="soulaimane0" /> </p>
 <p> 
-  <img align="right" width="35%" height="auto" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Coding" /> 
+  <img align="right" width="35%" height="auto" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Coding" />
 
-- 🚀 I recently completed building an E-commerce website with **MERN STACK + Typescript and Shadcn** 
+- 🚀 I recently completed building an E-commerce website with **MERN STACK + Typescript and Shadcn**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-pi-eosin.vercel.app/)
 
@@ -89,7 +89,6 @@
     <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Tailwind Css" width="40" height="40"/>
   </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soulaimane0&show_icons=true&locale=en&layout=compact&theme=dracula" alt="soulaimane0" /></p>
 
