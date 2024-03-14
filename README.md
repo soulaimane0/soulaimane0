@@ -1,9 +1,4 @@
-<p align="center">
-  <h1 align="center">Hi 👋, I'm Soulaimane</h1>
-  <h3 align="center">A passionate fullstack developer from Morocco</h3>
-</p>
-<br>
-<br><br>
+<h1 align="center">👋 Hi I am Soulaimane, a passionate full-stack developer💻✨</h1>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulaimane0&label=Profile%20views&color=0e75b6&style=flat" alt="soulaimane0" /> </p>
 <p> 
